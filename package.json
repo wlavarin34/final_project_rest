@@ -1,0 +1,21 @@
+{
+  "name": "final_project_rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "cors": "^2.8.4"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
